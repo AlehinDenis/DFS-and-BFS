@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Денис\Desktop\HW\Project1\Project1\main.cpp(11,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Денис\Desktop\HW\Project1\Project1\main.cpp(15,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Денис\Desktop\HW\Project1\Project1\main.cpp(24,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Денис\Desktop\HW\Project1\Project1\main.cpp(28,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Денис\Desktop\HW\Project1\Project1\main.cpp(35,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Project1.vcxproj -> C:\Users\Денис\Desktop\HW\Project1\Debug\Project1.exe
