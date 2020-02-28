@@ -1,7 +1,11 @@
 ﻿  main.cpp
-C:\Users\Денис\Desktop\HW\Project1\Project1\main.cpp(11,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Денис\Desktop\HW\Project1\Project1\main.cpp(15,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Денис\Desktop\HW\Project1\Project1\main.cpp(24,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Денис\Desktop\HW\Project1\Project1\main.cpp(28,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Денис\Desktop\HW\Project1\Project1\main.cpp(35,21): warning C4018: <: несоответствие типов со знаком и без знака
-  Project1.vcxproj -> C:\Users\Денис\Desktop\HW\Project1\Debug\Project1.exe
+C:\Users\ksc\Desktop\DFS-and-BFS\Project1\Project1\main.cpp(12,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\ksc\Desktop\DFS-and-BFS\Project1\Project1\main.cpp(16,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\ksc\Desktop\DFS-and-BFS\Project1\Project1\main.cpp(25,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\ksc\Desktop\DFS-and-BFS\Project1\Project1\main.cpp(32,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\ksc\Desktop\DFS-and-BFS\Project1\Project1\main.cpp(44,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\ksc\Desktop\DFS-and-BFS\Project1\Project1\main.cpp(56,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\ksc\Desktop\DFS-and-BFS\Project1\Project1\main.cpp(64,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\ksc\Desktop\DFS-and-BFS\Project1\Project1\main.cpp(68,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\ksc\Desktop\DFS-and-BFS\Project1\Project1\main.cpp(76,21): warning C4018:  <: несоответствие типов со знаком и без знака
+  Project1.vcxproj -> C:\Users\ksc\Desktop\DFS-and-BFS\Project1\Debug\Project1.exe
