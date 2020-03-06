@@ -27,24 +27,18 @@ void bfs(vector<vector<int>> graph, int start = 0)
 
 	queue<int> v;
 	vector<int> distance(graph.size());
-	distance[start] = 0;
-
-	for (int i = 0; i < graph[start].size(); i++)
-	{
-		v.push(graph[start][i]);
-		distance[i]++;
-	}
-	visited[start] = true;
+	v.push(start);
 
 	while (v.size())
 	{
-		int temp = v.front();
+		int temp = v.front(); 
 		v.pop();
 
 		for (int i = 0; i < graph[temp].size(); i++)
 			if (!visited[graph[temp][i]])
 			{
-				distance[graph[temp][i]] = distance[temp] + 1;
+				if(distance[graph[temp][i]] == 0)
+					distance[graph[temp][i]] = distance[temp] + 1;
 				v.push(graph[temp][i]);
 			}
 
@@ -65,10 +59,7 @@ void dfs(vector<vector<int>> graph, int start = 0)
 			visited.push_back(false);
 
 	stack<int> v;
-	for (int i = 0; i < graph[start].size(); i++)
-		v.push(graph[start][i]);
-	visited[start] = true;
-	cout << start<<" ";
+	v.push(start);
 	while (v.size())
 	{
 		int temp = v.top();
@@ -93,7 +84,7 @@ int main()
 	graph[5] = { 2,6 };
 	graph[6] = { 2,5 };
 	cout << "DFS: ";
-	dfs(graph);
+	//dfs(graph);
 	cout << "\nBFS: ";
-	bfs(graph, 0);
+	bfs(graph, 3);
 }

@@ -1,11 +1,9 @@
 ﻿  main.cpp
-C:\Users\ksc\Desktop\DFS-and-BFS\Project1\Project1\main.cpp(12,21): warning C4018:  <: несоответствие типов со знаком и без знака
-C:\Users\ksc\Desktop\DFS-and-BFS\Project1\Project1\main.cpp(16,20): warning C4018:  <: несоответствие типов со знаком и без знака
-C:\Users\ksc\Desktop\DFS-and-BFS\Project1\Project1\main.cpp(25,21): warning C4018:  <: несоответствие типов со знаком и без знака
-C:\Users\ksc\Desktop\DFS-and-BFS\Project1\Project1\main.cpp(32,20): warning C4018:  <: несоответствие типов со знаком и без знака
-C:\Users\ksc\Desktop\DFS-and-BFS\Project1\Project1\main.cpp(44,21): warning C4018:  <: несоответствие типов со знаком и без знака
-C:\Users\ksc\Desktop\DFS-and-BFS\Project1\Project1\main.cpp(56,20): warning C4018:  <: несоответствие типов со знаком и без знака
-C:\Users\ksc\Desktop\DFS-and-BFS\Project1\Project1\main.cpp(64,21): warning C4018:  <: несоответствие типов со знаком и без знака
-C:\Users\ksc\Desktop\DFS-and-BFS\Project1\Project1\main.cpp(68,20): warning C4018:  <: несоответствие типов со знаком и без знака
-C:\Users\ksc\Desktop\DFS-and-BFS\Project1\Project1\main.cpp(76,21): warning C4018:  <: несоответствие типов со знаком и без знака
-  Project1.vcxproj -> C:\Users\ksc\Desktop\DFS-and-BFS\Project1\Debug\Project1.exe
+C:\Users\Денис\Desktop\DFS-and-BFS\Project1\Project1\main.cpp(12,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Денис\Desktop\DFS-and-BFS\Project1\Project1\main.cpp(16,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Денис\Desktop\DFS-and-BFS\Project1\Project1\main.cpp(25,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Денис\Desktop\DFS-and-BFS\Project1\Project1\main.cpp(37,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Денис\Desktop\DFS-and-BFS\Project1\Project1\main.cpp(50,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Денис\Desktop\DFS-and-BFS\Project1\Project1\main.cpp(58,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Денис\Desktop\DFS-and-BFS\Project1\Project1\main.cpp(67,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Project1.vcxproj -> C:\Users\Денис\Desktop\DFS-and-BFS\Project1\Debug\Project1.exe
